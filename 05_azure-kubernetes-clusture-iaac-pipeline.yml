@@ -1,6 +1,5 @@
 trigger:
 - main
-container:
 
 pool:
   vmImage: 'ubuntu-latest'
